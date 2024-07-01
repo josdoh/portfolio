@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(197, 152, 85);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+h1 {
+    font-size: 60px;
+    color: #0c759e;
+    text-shadow: 1px 1px #12ffb0;
+    text-decoration-line: overline;
+}
+h2 {
+    font-size: 50px;
+    color: #7a0707;
+    text-shadow: 1px 1px #ff03c8;
+}
+li {
+    font-size: 25px;
+    color: rgb(85, 108, 150);
+}
+p {
+    font-size: 26px;
+}
